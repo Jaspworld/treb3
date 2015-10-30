@@ -1,7 +1,7 @@
 [treb]
-agent_id: 123456,543212
-trebuser: trebusername
-trebpass: trebpassword
+agent_id: 9563218
+trebuser: 9563218
+trebpass: jsingh
 root_dir=/var/www/html/public_html
 minimum_listing: 600000
 agent_exclude:0000000,1111111
@@ -9,9 +9,9 @@ output_file=/tmp/out_py.txt
 phone_msg : sample phone message contact information
 
 [wordpress]
-wp_url=http://www.yoursite.com/xmlrpc.php
-wp_username=wpuser
-wp_password=wppassword
+wp_url=http://www.condosbrampton.com/
+wp_username=admin
+wp_password=13318967Jasp
 user_perm: 500
 group_perm: 501
 
